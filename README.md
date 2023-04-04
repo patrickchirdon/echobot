@@ -32,6 +32,9 @@ create a trading station!!
 
 6.Instructions:
 
+![image](https://user-images.githubusercontent.com/39843493/229931221-d460bf5d-0097-457d-8046-5bdb1e1a9f78.png)
+
+
 https://www.tradestation.com/?gclid=EAIaIQobChMI-tvPj5uR_gIVSBTUAR2dmQSIEAAYASAAEgK5F_D_BwE&gclsrc=aw.ds
 
 ![image](https://user-images.githubusercontent.com/39843493/229931005-59411fa3-5dee-491d-bb9d-81797b012e6f.png)
