@@ -9,7 +9,10 @@ Installation
 
 from command line--
 
-3. pip install requirements.txt
+3. install the packages in requirements.txt
+pip install xyz
+pip install quandl
+pip install lumibot
 
 -------------------------
 
