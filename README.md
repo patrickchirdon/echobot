@@ -41,7 +41,11 @@ https://www.tradestation.com/?gclid=EAIaIQobChMI-tvPj5uR_gIVSBTUAR2dmQSIEAAYASAA
 ![image](https://user-images.githubusercontent.com/39843493/229931005-59411fa3-5dee-491d-bb9d-81797b012e6f.png)
 
 --------------------------
+other python libraries of interest--
+https://github.com/ranaroussi/quantstats
+https://pypi.org/project/TA-Lib/
 
+--------------------------
 See the strategies in action!
 
 https://www.youtube.com/watch?v=ou7JOCC4hBo
@@ -52,3 +56,5 @@ run:
 python example_stock_screener.py
 
 ![image](https://user-images.githubusercontent.com/39843493/229929939-8c818f00-5aa0-41e4-8b1c-2e3a842b7b8f.png)
+
+
