@@ -13,6 +13,7 @@ from command line--
 pip install xyz
 pip install quandl
 pip install lumibot
+pip install nltk
 
 -------------------------
 
