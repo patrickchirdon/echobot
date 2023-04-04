@@ -41,6 +41,8 @@ https://www.tradestation.com/?gclid=EAIaIQobChMI-tvPj5uR_gIVSBTUAR2dmQSIEAAYASAA
 
 --------------------------
 
+See the strategies in action!
+
 https://www.youtube.com/watch?time_continue=10&v=kLXQ9jkPvCU&embeds_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_origin=https%3A%2F%2Fdocs.google.com&feature=emb_logo&themeRefresh=1
 
 Example output--
