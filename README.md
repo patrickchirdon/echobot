@@ -14,7 +14,7 @@ from command line--
 -------------------------
 
 4. set up an account with Alpaca, kucoin, interactive brokers, and alpha vantage
-5. 
+
 Just choose the brokers you want. Don't have to go with all of them.
 https://app.alpaca.markets/login
 https://www.kucoin.com/
