@@ -47,4 +47,7 @@ https://www.youtube.com/watch?time_continue=10&v=kLXQ9jkPvCU&embeds_euri=https%3
 
 Example output--
 
+run:
+python example_stock_screener.py
+
 ![image](https://user-images.githubusercontent.com/39843493/229929939-8c818f00-5aa0-41e4-8b1c-2e3a842b7b8f.png)
