@@ -33,3 +33,7 @@ create a trading station!!
 --------------------------
 
 https://www.youtube.com/watch?time_continue=10&v=kLXQ9jkPvCU&embeds_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_origin=https%3A%2F%2Fdocs.google.com&feature=emb_logo&themeRefresh=1
+
+Example output--
+
+![image](https://user-images.githubusercontent.com/39843493/229929939-8c818f00-5aa0-41e4-8b1c-2e3a842b7b8f.png)
