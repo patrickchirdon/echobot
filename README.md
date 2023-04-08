@@ -15,6 +15,9 @@ pip install quandl
 pip install lumibot
 pip install nltk
 
+DOWNLOAD THE DATA FOLDER FROM HERE AND PUT IT IN THE SAME DIRECTORY AS THE STRATEGY.PY FILES
+https://drive.google.com/drive/folders/1Q2-UU8S4WZ6MUNJNSnUC55oAsOp5sNHZ
+
 -------------------------
 
 4. set up an account with Alpaca, kucoin, interactive brokers, and alpha vantage
