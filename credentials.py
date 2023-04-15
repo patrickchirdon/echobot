@@ -1,8 +1,8 @@
 ALPACA_CONFIG = {
     # Put your own Alpaca key here:
-    "API_KEY": "PKWCQBDHAEILDXYGG4ZO",
+    "API_KEY": "AKWU92R18FV1ECNEO3YA",
     # Put your own Alpaca secret here:
-    "API_SECRET": "6vB4nZ1OpT9mA0HpizFHbsuJC2Rw5Ti88smxdp6z",
+    "API_SECRET": "iHGnzv4HlUXP3aTMgWEPH1uXIH2wR75XhDImG2Tr"",
     # If you want to go live, you must change this
     "ENDPOINT": "https://paper-api.alpaca.markets",
 }
