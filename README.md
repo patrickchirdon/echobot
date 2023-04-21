@@ -7,6 +7,27 @@ The easiest installation is to use the google colab link. Make sure to change th
 https://github.com/patrickchirdon/echobot/blob/main/crypto_custom_etf.ipynb
 
 
+2023-04-08 18:31:02,020: root: INFO: BTC 17 Day Trend Following : Executing the on_bot_crash event method
+2023-04-08 18:31:02,052: root: INFO: BTC 17 Day Trend Following : --- BTC 17 Day Trend Following Strategy Performance ---
+2023-04-08 18:31:02,066: root: INFO: BTC 17 Day Trend Following : Total Return: 1,121.68%
+2023-04-08 18:31:02,066: root: INFO: BTC 17 Day Trend Following : CAGR 88.75%
+2023-04-08 18:31:02,066: root: INFO: BTC 17 Day Trend Following : Volatility 48.63%
+2023-04-08 18:31:02,066: root: INFO: BTC 17 Day Trend Following : Sharpe 1.82
+2023-04-08 18:31:02,066: root: INFO: BTC 17 Day Trend Following : Max Drawdown 63.50% on 2022-09-07
+2023-04-08 18:31:02,066: root: INFO: BTC 17 Day Trend Following : RoMaD 139.77%
+2023-04-08 18:31:02,066: root: INFO: BTC 17 Day Trend Following : --- BTC-USD Benchmark Performance ---
+- BTC-USD: No data found for this date range, symbol may be delisted
+
+![image](https://user-images.githubusercontent.com/39843493/233743453-2a14d1f2-5091-4725-83d7-2c9f8be02198.png)
+
+![image](https://user-images.githubusercontent.com/39843493/233743476-77b036bf-23c1-435e-9cab-269533b2827a.png)
+
+![image](https://user-images.githubusercontent.com/39843493/233743500-e029df33-9d40-411b-986a-cfee41119187.png)
+
+![image](https://user-images.githubusercontent.com/39843493/233743513-94238aa6-2ace-4751-8a16-3fc2d94fcdf7.png)
+
+
+
 Installation
 
 https://www.youtube.com/watch?v=Qrnjq9Wu0Mo
