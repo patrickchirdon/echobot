@@ -2,6 +2,10 @@
 
 see tradingbot.pptx for descriptions of the strategies
 
+The easiest installation is to use the google colab link. Make sure to change the secret key and the api key in the credentials.py file.  save this to your google drive or a copy for yourself on colab. 
+
+https://github.com/patrickchirdon/echobot/blob/main/crypto_custom_etf.ipynb
+
 Installation
 
 https://www.youtube.com/watch?v=Qrnjq9Wu0Mo
