@@ -4,6 +4,8 @@ see tradingbot.pptx for descriptions of the strategies
 
 Installation
 
+https://www.youtube.com/watch?v=Qrnjq9Wu0Mo
+
 1. install python   https://www.python.org/
 2. install anaconda if you like   https://www.anaconda.com/
 
