@@ -27,6 +27,10 @@ the link to credentials.py can be found here---  https://colab.research.google.c
 
 on the right hand corner of the screen it gives an api key and a button that says regenerate.  that's where you get the keys.  Be sure to specify paper if you want paper trading, otherwise it will trade real money after you add money to your account (https://api.alpaca.markets for real trading, https://paper-api.alpaca.markets for simulated trading) 
 
+![image](https://user-images.githubusercontent.com/39843493/234163811-f3becad1-9361-4b1e-9446-0a1550bf2bca.png)
+
+copy paste the contents of credentials.py in place of that line hilighted above. 
+
 Then click run (circle icon with triangle in the middle).  You could try any of the python strategies in this folder, but crypto_custom_etf is just to get you started.  
 
 The crypto-custom etf strategy doubles every year (roughly).
