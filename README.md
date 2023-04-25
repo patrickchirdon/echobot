@@ -8,7 +8,7 @@ The easiest installation is to use the google colab link. Make sure to change th
 
 https://github.com/patrickchirdon/echobot/blob/main/crypto_custom_etf.ipynb
 
-make sure there is a credentials.py file in the same directory as crypto_custom_etf.ipynb (or whatever strategy you want to run).  make sure to edit the api key and the secret key in credentials.py. Create a new file called credentials.py and paste the contents of crypto_custom_etf.ipynb there. Then edit the contents of credentials.py with the api and secret keys and endpoint.
+make sure there is a credentials.py file in the same directory as crypto_custom_etf.ipynb (or whatever strategy you want to run).  make sure to edit the api key and the secret key in credentials.py. Create a new file called credentials.py and paste the contents of crypto_custom_etf.ipynb there. Then edit the contents of credentials.py with the api and secret keys and endpoint.  If you do not want to upload the credentials.py file, you could copy paste the contents of credentials.py on top of the code for crypto_custom_etf.ipynb
 
 click the icon with the piece of paper and the up arrow on the right side of the screen, to upload credentials.py.  
 
