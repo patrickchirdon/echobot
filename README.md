@@ -63,7 +63,11 @@ The crypto-custom etf strategy doubles every year (roughly).
 
 ![image](https://user-images.githubusercontent.com/39843493/233743513-94238aa6-2ace-4751-8a16-3fc2d94fcdf7.png)
 
-I'd recommend trying this with paper trading first.  If it works, you should see three new positions on the alpaca dashboard!
+I'd recommend trying this with paper trading first.  If it works, you should see three new positions on the alpaca dashboard!  
+
+![image](https://user-images.githubusercontent.com/39843493/234166319-fb92e59b-00f1-4625-911b-559308475f8e.png)
+
+The volX return strategy and the congressional trading strategy are more conservative, you can try those if you'd like! (same instructions as above with the crypto_custom_etf strategy just using volx or congressional trading strategy instead).
 
 ---------------------------------------
 
