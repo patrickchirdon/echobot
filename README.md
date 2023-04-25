@@ -2,9 +2,17 @@
 
 see tradingbot.pptx for descriptions of the strategies
 
+You can get an Alpaca account here.  https://app.alpaca.markets/login
+
 The easiest installation is to use the google colab link. Make sure to change the secret key and the api key in the credentials.py file.  save this to your google drive or a copy for yourself on colab. 
 
 https://github.com/patrickchirdon/echobot/blob/main/crypto_custom_etf.ipynb
+
+make sure there is a credentials.py file in the same directory as crypto_custom_etf.ipynb (or whatever strategy you want to run).  make sure to edit the api key and the secret key in credentials.py. Create a new file called credentials.py and paste the contents of crypto_custom_etf.ipynb there. Then edit the contents of credentials.py with the api and secret keys and endpoint.
+
+![image](https://user-images.githubusercontent.com/39843493/234156660-f4ca2442-f254-470b-9e4e-fa78d883e745.png)
+
+on the right hand corner of the screen it gives an api key and a button that says regenerate.  that's where you get the keys.  Be sure to specify paper if you want paper trading, otherwise it will trade real money (https://api.alpaca.markets for real trading, https://paper-api.alpaca.markets for simulated trading) 
 
 
 2023-04-08 18:31:02,020: root: INFO: BTC 17 Day Trend Following : Executing the on_bot_crash event method
