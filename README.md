@@ -10,10 +10,24 @@ https://github.com/patrickchirdon/echobot/blob/main/crypto_custom_etf.ipynb
 
 make sure there is a credentials.py file in the same directory as crypto_custom_etf.ipynb (or whatever strategy you want to run).  make sure to edit the api key and the secret key in credentials.py. Create a new file called credentials.py and paste the contents of crypto_custom_etf.ipynb there. Then edit the contents of credentials.py with the api and secret keys and endpoint.
 
+click the icon with the piece of paper and the up arrow on the right side of the screen, to upload credentials.py.  
+
+![image](https://user-images.githubusercontent.com/39843493/234159951-dab54e2f-6a34-4dd6-810d-4d9cfd8a12cf.png)
+
+the link to credentials.py can be found here---  https://colab.research.google.com/github/patrickchirdon/echobot/blob/main/credentials.ipynb
+
+
+![image](https://user-images.githubusercontent.com/39843493/234160015-698b092f-5c87-4641-bdcc-ecf73893a29a.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/39843493/234156660-f4ca2442-f254-470b-9e4e-fa78d883e745.png)
 
 on the right hand corner of the screen it gives an api key and a button that says regenerate.  that's where you get the keys.  Be sure to specify paper if you want paper trading, otherwise it will trade real money (https://api.alpaca.markets for real trading, https://paper-api.alpaca.markets for simulated trading) 
 
+Then click run (circle icon with triangle in the middle)
+
+The crypto-custom etf strategy doubles every year (roughly).
 
 2023-04-08 18:31:02,020: root: INFO: BTC 17 Day Trend Following : Executing the on_bot_crash event method
 
