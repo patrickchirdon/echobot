@@ -63,6 +63,8 @@ The crypto-custom etf strategy doubles every year (roughly).
 
 ![image](https://user-images.githubusercontent.com/39843493/233743513-94238aa6-2ace-4751-8a16-3fc2d94fcdf7.png)
 
+I'd recommend trying this with paper trading first.  If it works, you should see three new positions on the alpaca dashboard!
+
 ---------------------------------------
 
 if you want to install on your home computer (note-- if you've done everything up until this point, there's no need to do this, you could just run it in colab.)
