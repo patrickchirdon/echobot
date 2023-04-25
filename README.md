@@ -2,13 +2,15 @@
 
 see tradingbot.pptx for descriptions of the strategies
 
+This is best run on desktop or laptop and not on your phone. 
+
 You can get an Alpaca account here.  https://app.alpaca.markets/login
 
 The easiest installation is to use the google colab link. Make sure to change the secret key and the api key in the credentials.py file.  save this to your google drive or a copy for yourself on colab. No need to install any additional packages. It's pre-installed in colab.
 
 https://github.com/patrickchirdon/echobot/blob/main/crypto_custom_etf.ipynb
 
-make sure there is a credentials.py file in the same directory as crypto_custom_etf.ipynb (or whatever strategy you want to run).  make sure to edit the api key and the secret key in credentials.py. Create a new file called credentials.py and paste the contents of crypto_custom_etf.ipynb there. Then edit the contents of credentials.py with the api and secret keys and endpoint.  If you do not want to upload the credentials.py file, you could copy paste the contents of credentials.py on top of the code for crypto_custom_etf.ipynb
+make sure there is a credentials.py file in the same directory as crypto_custom_etf.ipynb (or whatever strategy you want to run).  make sure to edit the api key and the secret key in credentials.py. Create a new file called credentials.py and paste the contents of crypto_custom_etf.ipynb there. Then edit the contents of credentials.py with the api and secret keys and endpoint.  If you do not want to upload the credentials.py file, you could copy paste the contents of credentials.py on top of the code for crypto_custom_etf.ipynb.  You don't need to add an alpha vantage or kucoin account with the credentials, but you can.  
 
 click the icon with the piece of paper and the up arrow on the right side of the screen, to upload credentials.py.  
 
@@ -23,9 +25,9 @@ the link to credentials.py can be found here---  https://colab.research.google.c
 
 ![image](https://user-images.githubusercontent.com/39843493/234156660-f4ca2442-f254-470b-9e4e-fa78d883e745.png)
 
-on the right hand corner of the screen it gives an api key and a button that says regenerate.  that's where you get the keys.  Be sure to specify paper if you want paper trading, otherwise it will trade real money (https://api.alpaca.markets for real trading, https://paper-api.alpaca.markets for simulated trading) 
+on the right hand corner of the screen it gives an api key and a button that says regenerate.  that's where you get the keys.  Be sure to specify paper if you want paper trading, otherwise it will trade real money after you add money to your account (https://api.alpaca.markets for real trading, https://paper-api.alpaca.markets for simulated trading) 
 
-Then click run (circle icon with triangle in the middle)
+Then click run (circle icon with triangle in the middle).  You could try any of the python strategies in this folder, but crypto_custom_etf is just to get you started.  
 
 The crypto-custom etf strategy doubles every year (roughly).
 
@@ -57,7 +59,9 @@ The crypto-custom etf strategy doubles every year (roughly).
 
 ![image](https://user-images.githubusercontent.com/39843493/233743513-94238aa6-2ace-4751-8a16-3fc2d94fcdf7.png)
 
+---------------------------------------
 
+if you want to install on your home computer.
 
 Installation
 
