@@ -4,7 +4,7 @@ see tradingbot.pptx for descriptions of the strategies
 
 You can get an Alpaca account here.  https://app.alpaca.markets/login
 
-The easiest installation is to use the google colab link. Make sure to change the secret key and the api key in the credentials.py file.  save this to your google drive or a copy for yourself on colab. 
+The easiest installation is to use the google colab link. Make sure to change the secret key and the api key in the credentials.py file.  save this to your google drive or a copy for yourself on colab. No need to install any additional packages. It's pre-installed in colab.
 
 https://github.com/patrickchirdon/echobot/blob/main/crypto_custom_etf.ipynb
 
