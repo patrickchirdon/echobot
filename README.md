@@ -65,7 +65,7 @@ The crypto-custom etf strategy doubles every year (roughly).
 
 ---------------------------------------
 
-if you want to install on your home computer.
+if you want to install on your home computer (note-- if you've done everything up until this point, there's no need to do this, you could just run it in colab.)
 
 Installation
 
